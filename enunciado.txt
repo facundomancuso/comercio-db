@@ -1,0 +1,2 @@
+# ENUNCIADO
+Se necesita crear una base de datos para un comercio que venda productos de tecnología. La base de datos debe gestionar la información de los clientes, productos, ventas y empleados.
